@@ -113,7 +113,7 @@ review를 보면서 좋아요도 누를 수 있습니다.<br>
 
 ### 👨‍👩‍👧‍👧contributor
 
-<a href="https://github.com/Bonbon315"><img src="https://avatars.githubusercontent.com/u/108643294?v=4" border-radius="50%" width="150" height="150"/></a>
+<a href="https://github.com/Bonbon315"><img src="https://avatars.githubusercontent.com/u/108643294?v=4" overflow="hidden" border-radius="50%" width="150" height="150"/></a>
 <a href="https://github.com/chaehyun-oh"><img src="https://avatars.githubusercontent.com/u/108640873?v=4" width="150" height="150"/></a>
 <a href="https://github.com/yoosoonil"><img src="https://avatars.githubusercontent.com/u/97111793?v=4" width="150" height="150"/></a>
 <a href="https://github.com/Gkhy"><img src="https://avatars.githubusercontent.com/u/108653266?v=4" width="150" height="150"/></a>
